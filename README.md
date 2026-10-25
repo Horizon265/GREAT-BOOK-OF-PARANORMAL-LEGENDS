@@ -1,0 +1,1 @@
+The book of paranormal legends consists of paranormal legends from for folklore and creepypasta alike from all around the world is a halloween special project adding to the halloween  vibe while also increasing a person's knowledge about cultural legends from all around the world.
