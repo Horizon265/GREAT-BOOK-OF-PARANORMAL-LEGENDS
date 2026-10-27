@@ -109,3 +109,18 @@ body{
     font-size: xx-large;
     color: black;
 }
+.NO7{
+    font-family: luminari;
+    font-size: 4rem;
+    color:rgb(124, 9, 9)
+}
+.kuchiimg{
+    margin-left: 25rem;
+    width: 30rem;
+    height: 50rem;
+}
+.kuchitxt{
+    font-family: fantasy;
+    font-size: xx-large;
+    color: black;
+}

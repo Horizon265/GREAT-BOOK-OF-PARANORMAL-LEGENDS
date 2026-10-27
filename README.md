@@ -1,1 +1,4 @@
 The book of paranormal legends consists of paranormal legends from for folklore and creepypasta alike from all around the world is a halloween special project adding to the halloween  vibe while also increasing a person's knowledge about cultural legends from all around the world.
+ I have included legends from various regions from japan the tales of the different yokai with some influencing the world even to this day such as the tale of ju on which went on to inspire the famous english horror movie the grudge.
+Moreover the collection is not limited to only japenese stories but also explores different cultures such as the canadian folklore of the wendigo.
+Even creepypastas are not left behind and titans that defined the creepypasta genre such as the goatman etc are also included in this grand collection guaranteed to give the halloween spooks this spooktobers
