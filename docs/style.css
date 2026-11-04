@@ -145,3 +145,24 @@ body{
     font-size: 4rem;
     color:rgb(124, 9, 9)
 }
+.WEST{
+    font-family: fantasy;
+    font-size: 6rem;
+    color: rgb(255, 251, 0);
+    text-align: center;
+}
+.umi{
+    font-family: luminari;
+    font-size: 4rem;
+    color:rgb(124, 9, 9)
+}
+.umiimg{
+    margin-left: 25rem;
+    width: 30rem;
+    height: 50rem;
+}
+.umitxt{
+    font-family: fantasy;
+    font-size: xx-large;
+    color: black;
+}
